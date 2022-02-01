@@ -1,6 +1,8 @@
 {
-  "title": "test ",
-  "subtitle": "etest",
-  "content": "esrsdrdsr",
-  "seoDescription": "sdasdasd"
+  "title": "Company",
+  "subtitle": "About the company",
+  "content": "Some more about the company...",
+  "seoDescription": "sdasdasd",
+  "featuredImage": "/images/uploads/136353707_248818609944318_5469098239237660755_n.jpg",
+  "seoMetaImage": "/images/uploads/136353707_248818609944318_5469098239237660755_n.jpg"
 }
